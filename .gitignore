@@ -1,0 +1,10 @@
+profiles/
+settings.json
+data.json
+icons.json
+*.log
+build/
+dist/
+*.spec
+__pycache__/
+publish_public.bat
